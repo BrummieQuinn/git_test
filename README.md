@@ -1,1 +1,1 @@
-# git_test
+This is Brummie Quinn's first Git project!
